@@ -1,0 +1,18 @@
+# key value pair
+"apple": "I am a fruit!"
+1: "The top G Pratham."
+---
+#list
+- apple
+- mango
+- banana
+- Pratham
+- hoe
+
+---
+#block style
+cities:
+  - mumbai
+  - Pratham
+  - Batala
+  - Aditya
